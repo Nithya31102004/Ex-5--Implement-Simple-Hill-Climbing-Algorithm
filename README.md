@@ -85,4 +85,4 @@ SimpleHillClimbing()
 
 <img width="1206" height="332" alt="image" src="https://github.com/user-attachments/assets/2634675c-5fc2-4ba0-a92d-3869d48f573e" />
 <h2>Result:</h2>
-Thus, The given Implement-Simple-Hill-Climbing-Algorithm was executed successfully
+Thus, The given Implement-Simple-Hill-Climbing-Algorithm was executed successfully.
